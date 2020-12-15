@@ -10,7 +10,7 @@ layout: default
 - [Schedule](SprintSchedule.pdf){:target="_blank"}
 - [Class List/Teams](ClassList.pdf){:target="_blank"}
 - Communications -[Slack Invitation](https://join.slack.com/t/nmc-scp3975/shared_invite/zt-k0kxzgra-wvCTcQbbxOctfwhwlZjaZg){:target="_blank"}
-- [Kanban boards](Kanbans.md)
+- [Kanban boards](Kanbans)
 
 
 
