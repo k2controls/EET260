@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# EET260 System Engineering in Practice
+# System Engineering in Practice
 
 ## Team Kanban Boards
 
