@@ -10,6 +10,6 @@ layout: default
 - [Slack](slack.md)
 - [Kanbans/Trello](kanbans.md)
 - [Yahboom/Pi System](pi_system.md)
-- [Display Case](dispay_case.md)
+- [Display Case](display_case.md)
 - [Presentations](presentations.md)
 
