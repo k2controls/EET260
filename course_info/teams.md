@@ -13,7 +13,7 @@ layout: default
 |                |John Stankowski |
 |*Rich Carrizales*   |*Joe Claramunt*|
 
-## Process Roles
+### Process Roles
 
 | Role           | Red Team      | Blue Team     |
 | :------------- | :------------- | :----------: |
@@ -23,7 +23,7 @@ layout: default
 | [Quality Assurance][4]|               |               |
 
 
-## Product Owners
+### Product Owners
 
 | Role           | Red Team      | Blue Team     |
 | :------------- | :------------- | :----------: |
