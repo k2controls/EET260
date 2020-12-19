@@ -33,3 +33,10 @@ layout: default
 | [Reports][8]|               |               |
 
 [1]: ./roles#Product-Owner
+[2]: ./roles#Scrum-Master
+[3]: ./roles#Engineer
+[4]: ./roles#Quality-Assurance
+[5]: ./roles#AI-System
+[6]: ./roles#Display-Case
+[7]: ./roles#Presentation
+[8]: ./roles#Reports
