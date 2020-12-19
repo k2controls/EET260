@@ -4,9 +4,9 @@ layout: default
 
 # System Engineering in Practice
 
-## Teams
+## [EET260](../../) - [Course Info](../) - Teams
 
-| Red Team      | Blue Team     | 
+| _Red Team_      | _Blue Team_     | 
 | :------------- | :----------: |
 |Haley Carpenter |Jacob Tolfree |
 |Claire Norconk  |Jackilynn Millard |

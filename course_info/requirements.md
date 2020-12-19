@@ -4,7 +4,7 @@ layout: default
 
 # System Engineering in Practice
 
-## Project Requirements
+## [EET260](../../) - [Course Info](../) - Project Requirements
 
 - Sprint 0
     - As a team, we present to stakeholder to defined scope and secure resources.
@@ -29,5 +29,6 @@ layout: default
     - As a team, we meet or exceed all process and product deliverables.
     - As a system, it demonstrates extended AI capabilities and EET260 outcomes.
     - As a display case prototype, it shares AI concepts and EET260 outcomes to the community
+    - As a final report, it communicates outcomes including design process and system product. 
     - As a final report, it communicates outcomes including design process and system product. 
     - As a individual, I demonstrate my ability to function as an effective team member.
