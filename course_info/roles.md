@@ -6,13 +6,13 @@ layout: default
 ## [EET260](../) - [Course Info](./) - Roles
 
 ## Process Roles
-- # Product Owner
-- # Scrum Master
-- # Engineer
-- # Quality Assurance
+- ### Product Owner
+- ### Scrum Master
+- ### Engineer
+- ### Quality Assurance
 
 ## Products
-- # AI System
-- # Display Case
-- # Presentation
-- # Reports
+- ### AI System
+- ### Display Case
+- ### Presentation
+- ### Reports
