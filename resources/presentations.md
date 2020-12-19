@@ -4,4 +4,4 @@ layout: default
 
 # System Engineering in Practice
 
-## Presentations
+## [EET260](../) - [Resources](./) - Presentations

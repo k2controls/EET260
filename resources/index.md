@@ -4,7 +4,7 @@ layout: default
 
 # System Engineering in Practice
 
-## Course/Project Resources
+## [EET260](../) - Resources
 
 - [Moodle](moodle.md)
 - [Slack](slack.md)

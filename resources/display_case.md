@@ -4,4 +4,4 @@ layout: default
 
 # System Engineering in Practice
 
-## Display Case
+## [EET260](../) - [Resources](./) - Display Case

@@ -4,7 +4,7 @@ layout: default
 
 # System Engineering in Practice
 
-## Team Kanban Boards
+## [EET260](../) - [Resources](./) - Kanban Boards
 
 | Blue Team      | Red Team     | 
 | :------------- | :----------: |
