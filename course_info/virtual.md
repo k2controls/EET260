@@ -4,7 +4,7 @@ layout: default
 
 # System Engineering in Practice
 
-## [EET260](../../) - [Course Info](../) - Virtual Format and Requirements
+### [EET260](../../) - [Course Info](../) - Virtual Requirements
 
 - Course sessions 
     - 100% Virtual
