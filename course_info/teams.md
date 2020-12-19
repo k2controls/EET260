@@ -14,7 +14,8 @@ layout: default
 |*Rich Carrizales*   |*Joe Claramunt*|
 
 ## Process Roles
-| Role           | Red Team      | Blue Team     | 
+
+| Role           | Red Team      | Blue Team     |
 | :------------- | :------------- | :----------: |
 | [Project Owner][1]|               |               |
 | [Scrum Master][2] |               |               |
@@ -23,7 +24,8 @@ layout: default
 
 
 ## Product Owners
-| Role           | Red Team      | Blue Team     | 
+
+| Role           | Red Team      | Blue Team     |
 | :------------- | :------------- | :----------: |
 | [AI System][5]|               |               |
 | [Display Case][6] |               |               |
