@@ -4,7 +4,7 @@ layout: default
 
 # System Engineering in Practice
 
-## [EET260](../../) - [Course Info](../) - Project Requirements
+## [EET260](../) - [Course Info](./) - Project Requirements
 
 - Sprint 0
     - As a team, we present to stakeholder to defined scope and secure resources.

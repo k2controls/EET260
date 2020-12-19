@@ -4,7 +4,7 @@ layout: default
 
 # System Engineering in Practice
 
-## [EET260](../../) - [Course Info](../) - Teams
+## [EET260](../) - [Course Info](./) - Teams
 
 | _Red Team_      | _Blue Team_     | 
 | :------------- | :----------: |

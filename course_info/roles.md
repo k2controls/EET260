@@ -3,6 +3,7 @@ layout: default
 ---
 
 # System Engineering in Practice
+## [EET260](../) - [Course Info](./) - Roles
 
 ## Process Roles
 - # Product Owner
