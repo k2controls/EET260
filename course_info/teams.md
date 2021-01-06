@@ -10,7 +10,7 @@ layout: default
 | :------------- | :----------: |
 |Haley Carpenter |Jacob Tolfree |
 |Claire Norconk  |Jackilynn Millard |
-|                |John Stankowski |
+|Chris Groleau   |John Stankowski |
 |*Rich Carrizales*   |*Joe Claramunt*|
 
 ### Process Roles
