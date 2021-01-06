@@ -4,14 +4,12 @@ layout: default
 
 # EET260 System Engineering in Practice
 
-## Sprint 0
+## [EET260](../) - Sprint 0
 
-
-- Project Charter
-- Team Contract
-- Hardware Inventory
-- Software Inventory
-- BOM/Budget
-- Schedule/Milestones
-
-- [EET260 Syllabus](EET260.Syllabus.pdf){:target="_blank"}
+- [Tues, Jan 12 - Session 01]
+- [Thurs, Jan 14 - Session 02]
+- [Tues, Jan 19 - Session 03]
+- [Thurs, Jan 21 - Session 04]
+- [Tues, Jan 26 - Session 05]
+- [Thurs, Jan 28 - Session 06]
+- [Tues, Feb 2 - Project Pitch]
