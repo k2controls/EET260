@@ -4,6 +4,6 @@ layout: default
 
 # EET260 System Engineering in Practice
 
-## [EET260](../../) - [Sprint 0](../) - Session 18
+## [EET260](../../) - [Sprint 2](../) - Session 18
 
 - item 1
