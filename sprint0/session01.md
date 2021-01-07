@@ -12,10 +12,17 @@ layout: default
 - [Introduction to Projects](resources/IntroToProjects.pptx)
 - Course overview - continued
 - Tools
+    - Slack
     - Lean Canvas
     - Kanban/Trello
 - Yahboom AI kit review
 - Team roles
 - Team time
-- Team report out - actions?
 
+---
+### Assignment
+- Work with your team. 
+    - Make a plan and begin research
+    - Be prepared to discuss at session 02.
+        - Tasks completed since session 03
+        - Tasks planned for Session 03
