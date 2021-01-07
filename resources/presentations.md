@@ -8,4 +8,4 @@ layout: default
 
 - Project Pitch - Tuesday, Feb. 2
 - Midpoint Report-out/Final Spec - Tuesday, Mar. 16
-- Final Presentation - Thursday, Apr. 23
+- Final Presentation and Report Documentation - Thursday, Apr. 23
