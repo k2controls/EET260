@@ -4,7 +4,7 @@ layout: default
 
 # EET260 System Engineering in Practice
 
-## [EET260](../../) - [Sprint 0](../) - Session 01
+## [EET260](../) - [Sprint 0](./) - Session 01
 
 - [Course/Project overview](../course_info/EET260.Syllabus.SP21.pdf){:target="_blank"})
 - [Red Team, Blue Team](../course_info/teams.md)

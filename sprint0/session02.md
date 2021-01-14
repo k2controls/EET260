@@ -4,7 +4,7 @@ layout: default
 
 # EET260 System Engineering in Practice
 
-## [EET260](../../) - [Sprint 0](../) - Session 02
+## [EET260](../) - [Sprint 0](./) - Session 02
 
 - Session 01 Review - team report out
     - what has been done since Session 01?
