@@ -14,7 +14,7 @@ layout: default
 - Slack - Review
 - Teamwork [Lencioni - Dysfunctions of a Teams](https://youtu.be/SX7Njc85bUY)
     - [Lencioni Pyramid](https://healthyplan.ca/wp-content/uploads/2015/02/5-Dysfunctions-of-Team3.jpg)]
-- Team Contract - Locate template, share next week 
+- Team Contract - Locate template, submit to Moodle, share next week 
 - Requrirements as User Stories
 - Sprint 0 Backlog/Deliverables -> Kanban tasks
     - Project overview and constraints
@@ -25,7 +25,7 @@ layout: default
     - Materials, Budget? 
     - Other?
     - how can this be shared between Red and Blue?
-    
+- Gradebook review: Sprint 0    
 - [How to plan an MVP](https://www.youtube.com/watch?v=1hHMwLxN6EM&feature=emb_rel_end)
 - [Identify and Validate Your Riskiest Assumptions](https://www.youtube.com/watch?v=gbArObiU1Y0)
 
@@ -35,3 +35,4 @@ layout: default
 ---
 ###Assignments
 - Scrum Module 2
+- Team Contract sample - individual
