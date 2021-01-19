@@ -33,6 +33,6 @@ layout: default
 
 
 ---
-###Assignments
+### Assignments
 - Scrum Module 2
 - Team Contract sample - individual
