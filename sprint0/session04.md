@@ -59,6 +59,7 @@ layout: default
             - Questions to KEK
             - KEK will build and launch poll
     - Other?
+    - What is the process for the rest of this week and next to finalize SP0 Presentation?
 
 ---
 ### Assignments
