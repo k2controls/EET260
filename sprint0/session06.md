@@ -21,6 +21,7 @@ layout: default
     - Evaluation Poll - see sample eval in Slack
 - System Build/Research due this week
     - How to submit evidence?
+    - TODO!
 
 - Sprint 1 kickoff next Tuesday as time permits
     - Sprint 0 Review - The presentation is this. Product!
@@ -31,6 +32,7 @@ layout: default
             - Display Case
             - Presentation
             - Report
+
 ---
 ### Assignments
 - Scrum Module 3
