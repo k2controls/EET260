@@ -8,7 +8,7 @@ layout: default
 
 - Sprint 0 Review - Stakeholder Presentation
 - Sprint 0 Retrospective
-    - [Retrospective Form](../../resources/RetrospectiveForm.docx)
+    - [Retrospective Form](../resources/RetrospectiveForm.docx)
      - Complete with team
      - How we work. Process!
      - Submit one per team
