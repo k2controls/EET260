@@ -13,12 +13,12 @@ layout: default
      - How we work. Process!
      - Submit one per team
 - Sprint 1,2 Planning
-    -What does team success look like for each of the following
+    - What does team success look like for each of the following
         - AI System
         - Display Case
         - Presentation
         - Report
-    -What does individual success look like for 
+    - What does individual success look like for 
         - AI System
 - Sprint 0 Assignment Review/Completion
     - Communications
