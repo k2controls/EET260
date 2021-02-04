@@ -32,4 +32,3 @@ layout: default
         - Implement and Test
 - Sprint 1 Board Review
 - Team time - Spring 1 planning
----
