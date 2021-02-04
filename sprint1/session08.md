@@ -7,7 +7,7 @@ layout: default
 ## [EET260](../) - [Sprint 1](./) - Session 08
 
 - Task for today - Spring 1 Planning
-- [Design Thinking](https://youtu.be/6lmvCqvmjfE)
+- [Design Thinking](https://youtu.be/6lmvCqvmjfE){:target="_blank"}
     - Empathize - Sprint 1
     - Define - Sprint 1
     - Ideate - Sprint 1
