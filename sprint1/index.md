@@ -6,6 +6,7 @@ layout: default
 ## [EET260](../) - Sprint 1
 
 - [Thurs, Feb 4 - Session 08](session08.md)
+
 <!--
 - [Tues, Feb 9 - Session 09](session09.md)
 - [Thurs, Feb 11 - Session 10](session10.md)
