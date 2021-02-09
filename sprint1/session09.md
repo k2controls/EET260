@@ -48,7 +48,7 @@ layout: default
         - Activity
         - Report out
 
-<!-->
+<!--
         - Crazy 8s
             -Crazy 8s can be used anytime you want to come up with a bunch of ideas quickly. The simplicity of this one is wonderful:
                 - Grab a piece of paper and fold it into eight sections
