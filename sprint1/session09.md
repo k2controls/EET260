@@ -44,7 +44,7 @@ layout: default
         - A Point Of view (POV) is a meaningful and actionable problem statement, which will allow you to ideate in a goal-oriented manner.
         - [User . . . (descriptive)] needs [need . . . (verb)] because [insight. . . (compelling)]
         - “How Might We” or “in what ways might we”. How Might We (HMW) questions are questions that have the potential to spark ideation sessions such as brainstorms. *They should be broad enough for a wide range of solutions*, but narrow enough that specific solutions can be created for them. 
-    - Ideate - What are possible solutions
+    - Stage 3 - Ideate - What are possible solutions
         - Activity
         - Report out
 
