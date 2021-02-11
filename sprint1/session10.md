@@ -16,7 +16,7 @@ layout: default
 - Selection
     - How will you choose?
     - What attributes will you consider? Examples? 
-    - [Weighted Scorecard](resources/WeightedScoreCard.xlsx)
+    - [Weighted Scorecard](resources/WeightedScoring.xlsx)
 - Team time
     - Choose potential solutions ideas - at least 3
     - Identify selection criteria
