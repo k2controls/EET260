@@ -12,5 +12,6 @@ layout: default
     - What does individual success look like for AI System?
 - Sprint 2 planning and Kanban due by Tuesday
     - Standup with team items in motion
+    - Filtered by member
     - Effort and artifacts documented
 - Team time
