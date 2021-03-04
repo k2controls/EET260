@@ -15,22 +15,22 @@ layout: default
 
 ### Process Roles
 
-| Role           | Red Team      | Blue Team     |
-| :------------- | :------------- | :----------: |
-| [Project Owner][1]|               |               |
-| [Scrum Master][2] |               |               |
-| [Engineer][3]     |               |               |
-| [Quality Assurance][4]|               |               |
+| Role                  | Red Team    | Blue Team     |
+| :-------------------- | :-----------| :-----------: |
+| [Project Owner][1]    | Rich        | Jackilynn     |
+| [Scrum Master][2]     | Haley       | Joe           |
+| [Engineer][3]         | Chris       | Jacob         |
+| [Quality Assurance][4]| Claire      | John          |
 
 
 ### Product Owners
 
-| Role           | Red Team      | Blue Team     |
-| :------------- | :------------- | :----------: |
-| [AI System][5]|               |               |
-| [Display Case][6] |               |               |
-| [Presentation][7]     |               |               |
-| [Reports][8]|               |               |
+| Role              | Red Team      | Blue Team     |
+| :---------------- | :------------- | :----------: |
+| [AI System][5]    | Chris          | Jacob        |
+| [Display Case][6] | Rich           | John         |
+| [Presentation][7] | Haley          | Joe          |
+| [Reports][8]      | Claire         | Jackilynn    |
 
 [1]: ./roles#Product-Owner
 [2]: ./roles#Scrum-Master
