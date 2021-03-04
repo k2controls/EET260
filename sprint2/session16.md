@@ -27,7 +27,11 @@ layout: default
         - Haley, Joe
         - Determine flow/outline of SP2 report-out
         - How will stakeholders be introduced to project and context of SP2 without overlap/redundancy between teams?
-        - How will team-specific content be presented? All must present.
+        - How will team-specific content be presented? 
+            - Demonstrations? 
+            - Video?
+            - Mock-ups?
+            - All must present.
         - What does presentation closing look like? 
         - What evaluation is completed by stakeholders?
         - Plan for stakeholder thank you and follow up (invitation to final)
