@@ -13,6 +13,7 @@ layout: default
         - What are you working on - shown In-Progress
         - Capacity? - move tasks from backlog.
         - Save details for next Tuesday's review
+- Other actions/report-out from cross-team activites
 - Plan of Thursday session?
 - Blue Team meeting with Keith
     - Status of engineering
