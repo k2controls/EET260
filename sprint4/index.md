@@ -6,12 +6,14 @@ layout: default
 
 ## [EET260](../) - Sprint 4
 
-- [Tues, Apr 06 - Session 25](session25.md)
+
 - [Thurs, Apr 08 - Session 26](session26.md)
+
+<!--
 - [Tues, Apr 13 - Session 27](session27.md)
 - [Thurs, Apr 15 - Session 28](session28.md)
 - [Tues, Apr 20 - Session 29](session29.md)
 - [Thurs, Apr 22 - Final Presentation/Report](final_presentation.md)
-
+-->
 
 

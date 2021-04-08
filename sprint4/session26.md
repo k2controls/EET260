@@ -6,4 +6,6 @@ layout: default
 
 ## [EET260](../../) - [Sprint 4](../) - Session 26
 
-- item 1
+- SP4 Kanban Review - Joe, Haley
+- Scrum
+- Team Time
