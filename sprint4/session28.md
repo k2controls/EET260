@@ -7,8 +7,8 @@ layout: default
 ## [EET260](../../) - [Sprint 4](../) - Session 28
 
 - Thursday, Apr 15
-        - Class check-in, obstacles?
-        - [Final Presentation Outline](FinalPresentationOutline)
+    - Class check-in, obstacles?
+    - [Final Presentation Outline](FinalPresentationOutline)
 - Schedule
     - Tuesday, Apr 20
         - Class/Team Scrum - Final
