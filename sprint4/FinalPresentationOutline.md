@@ -24,9 +24,9 @@ layout: default
         - Approach
         - **Current Status: Demo or video**
         - Obstacles/gaps or next steps
-        - Each team member
-            - Your biggest obstacle or asset produced by you
-            - Approach, iterations, tech implemented (your story)
+        - Each team member ( one slide)
+            - Your biggest assest or value produced
+            - Approach, iterations, tech, obstatcle? (your story)
             - Not too much detail on tech and solution
         - Q and A
     - Red Team
@@ -34,9 +34,9 @@ layout: default
         - Approach
         - **Current Status: Demo or video**
         - Obstacles/gaps or next steps
-        - Each team member
-            - Your biggest obstacle or asset produced by you
-            - Approach, iterations, tech implemented (your story)
+        - Each team member ( one slide)
+            - Your biggest assest or value produced
+            - Approach, iterations, tech, obstatcle? (your story)
             - Not too much detail on tech and solution
         - Q and A
     - Class/Experience Take-Aways/Lessons-Learned
